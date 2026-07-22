@@ -18,7 +18,7 @@
 .potato1{
   grid-column-start: 1;
   grid-column-end: 3;
-  background-color:white;
+  background-color:green;
 }
 
 .potato6{
@@ -35,4 +35,24 @@
   grid-column-start:5;
   grid-column-end:5;
   background-color: blue;
+}
+
+.potato3{
+  grid-column-start:2;
+  grid-column-end:3;
+  background-color: black;
+}
+
+.potato2{
+  grid-row-start:1;
+  grid-row-end: 3;
+  grid-column-start:1;
+  grid-column-end:3;
+  background-color: blue;
+}
+
+.potato9{
+  grid-column-start:2;
+  grid-column-end:3;
+  background-color: yellow;
 }
