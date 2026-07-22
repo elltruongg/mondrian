@@ -18,7 +18,7 @@
 .potato1{
   grid-column-start: 1;
   grid-column-end: 3;
-  
+  background-color:white;
 }
 
 .potato6{
@@ -26,7 +26,7 @@
   grid-row-end: 4;
   grid-column-start:3;
   grid-column-end:4;
-  
+  background-color:red;
 }
 
 .potato10{
@@ -34,5 +34,5 @@
   grid-row-end: 4;
   grid-column-start:5;
   grid-column-end:5;
-  
+  background-color: blue;
 }
