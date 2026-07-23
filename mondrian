@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <hmtl>
+
   <head>
     <link rel="style sheet" href="style.css">
+  </head>
+
   <body>
     <div class="container"></div>
     <div>
@@ -18,9 +21,6 @@
       <div class="item">Potato 11</div>
       <div class="item">Potato 12</div>
     </div>
-
   </body>
-
-  </head>
 
 </html>
